@@ -1,0 +1,15 @@
+.tabs-container {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    width: 100%;
+}
+
+.appbar {
+    width: 264px !important;
+    height: 100vh !important;
+    background-color: white !important;
+    color: black !important;
+    border-right: 1px solid gray !important;
+    box-shadow: none !important;
+}

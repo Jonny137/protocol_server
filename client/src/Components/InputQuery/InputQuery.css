@@ -1,0 +1,12 @@
+.input-query-container {
+    margin-top: 45px;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+}
+
+.send-button {
+    margin-top: 10px !important;
+    width: 80px !important;
+}
