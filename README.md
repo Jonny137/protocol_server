@@ -4,7 +4,7 @@
      height="50px"
 />&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-     alt="Markdown Node icon"
+     alt="Markdown React icon"
      height="50px"
 />
 
